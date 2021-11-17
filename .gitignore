@@ -1,0 +1,5 @@
+.config
+.local
+test.R
+dir_detrend_robinhood.R
+file_detrend.R
